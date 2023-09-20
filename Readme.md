@@ -3,11 +3,19 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E71)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-# How to determine which Scheduler element is located at the specified point
+
+# WinForms Scheduler - Identify UI element located under the mouse pointer (Hit Testing)
+
+This example demonstrates how to do the following:
+
+* Obtain the appointment located under the mouse pointer.
+* Get the time in a certain point of the time cell and display it in the Form's caption.
+* Prohibit dragging appointments to the All-Day area.
+
+![WinForms Scheduler - Identify UI element located at the specified point](https://raw.githubusercontent.com/DevExpress-Examples/how-to-determine-which-scheduler-element-is-located-at-the-specified-point-e71/15.2.4+/media/b0135b17-cb3b-4780-846b-7cec1c9f9483.png)
 
 
-<p>The following example illustrates how you can obtain the appointment under the mouse pointer, how to get the time in a certain point of the time cell, and how to prohibit dragging appointments to the All-Day area. The time under the mouse pointer is displayed in the window's caption.<br><img src="https://raw.githubusercontent.com/DevExpress-Examples/how-to-determine-which-scheduler-element-is-located-at-the-specified-point-e71/15.2.4+/media/b0135b17-cb3b-4780-846b-7cec1c9f9483.png"></p>
+## Documentation
 
-<br/>
-
-
+* [SchedulerHitInfo](https://docs.devexpress.com/WindowsForms/DevExpress.XtraScheduler.Drawing.SchedulerHitInfo)
+* [AppointmentViewInfo](https://docs.devexpress.com/WindowsForms/DevExpress.XtraScheduler.Drawing.AppointmentViewInfo)
