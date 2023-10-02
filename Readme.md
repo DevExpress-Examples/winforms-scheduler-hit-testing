@@ -9,7 +9,7 @@
 This example demonstrates how to do the following:
 
 * Obtain the appointment located under the mouse pointer.
-* Get the time in a certain point of the time cell and display it in the Form's caption.
+* Get the time at a certain point of the time cell and display it in the Form's caption.
 * Prohibit dragging appointments to the All-Day area.
 
 ![WinForms Scheduler - Identify UI element located at the specified point](https://raw.githubusercontent.com/DevExpress-Examples/how-to-determine-which-scheduler-element-is-located-at-the-specified-point-e71/15.2.4+/media/b0135b17-cb3b-4780-846b-7cec1c9f9483.png)
