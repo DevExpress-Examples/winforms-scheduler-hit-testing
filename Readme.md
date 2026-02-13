@@ -21,7 +21,7 @@ This example demonstrates how to do the following:
 * [SchedulerHitInfo](https://docs.devexpress.com/WindowsForms/DevExpress.XtraScheduler.Drawing.SchedulerHitInfo)
 * [AppointmentViewInfo](https://docs.devexpress.com/WindowsForms/DevExpress.XtraScheduler.Drawing.AppointmentViewInfo)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-scheduler-hit-testing&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-scheduler-hit-testing&~~~was_helpful=no)
 
